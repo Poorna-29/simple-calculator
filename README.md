@@ -25,28 +25,13 @@ This is my **mini-project**, designed to demonstrate the core concepts of **Flut
 
 ---
 
-## 🏗️ Project Structure
-
-lib/
-    main.dart # Entry point of the app
-     screens/
-       calculator_screen.dart
-       widgets/
-    button_widget.dart
-    utils/
-   calculator_logic.dart
-
-
-
-
 
 ## 💻 How to Run the Project
 
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/<Poorna-29>/<simple calculator>.git
-
-📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 Understanding of Flutter widget tree and layouts
 
@@ -57,7 +42,8 @@ Building custom reusable widgets
 Handling user input and performing calculations in Dart
 
 🧑‍💻 Author
-POORNA
+    POORNA
+    
 📧 poornanaik634@gmail.com
 
 🌐 https://github.com/Poorna-29
