@@ -28,13 +28,13 @@ This is my **mini-project**, designed to demonstrate the core concepts of **Flut
 ## 🏗️ Project Structure
 
 lib/
-├── main.dart # Entry point of the app
-├── screens/
-│ └── calculator_screen.dart
-├── widgets/
-│ └── button_widget.dart
-└── utils/
-└── calculator_logic.dart
+    main.dart # Entry point of the app
+     screens/
+       calculator_screen.dart
+       widgets/
+    button_widget.dart
+    utils/
+   calculator_logic.dart
 
 
 
